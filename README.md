@@ -1,15 +1,6 @@
-below is the ss of my react page 
-![image](https://github.com/rumanay/-rumana-yeasmin_assig3_csi3150_ws2023/assets/124291951/7e63d3fc-fdf2-4716-b0f6-d9fd2e61fdc1)
+ ![image](https://github.com/rumanay/-rumana-yeasmin_assig3_csi3150_ws2023/assets/124291951/7e63d3fc-fdf2-4716-b0f6-d9fd2e61fdc1)
 ![image](https://github.com/rumanay/-rumana-yeasmin_assig3_csi3150_ws2023/assets/124291951/d33f6fe6-1391-4137-8bf3-7af0eba110f3)
-
-
 ![image](https://github.com/rumanay/-rumana-yeasmin_assig3_csi3150_ws2023/assets/124291951/c00ffcca-b95c-4950-bc25-0390491d6b44)
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
